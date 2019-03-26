@@ -1,2 +1,55 @@
 # Gym-Exercises-dataset
 the sensory data from gym exercises
+
+List of exercises:
+# Treadmill = 1
+# ab crunch machine = 2
+# Lying leg curl = 3
+# barbbell bicep curl = 6
+# standing calf raise = 7
+# Lat pull down = 9
+# cycling = 10
+# seated calf raise = 11
+# overhead dumbbell press sitting = 12
+# Machine Shoulder (military) Press = 13
+# overhead barbell press - behind the neck = 14
+# Dumbbell Lateral Raise = 15 
+# Dumbbell Front Raise = 16
+# Dumbbell Reverse Fly On Incline Bench = 17
+# Barbell Upright Row = 18
+# Austrailian Pull up (inverted row) = 19
+# Standing Biceps Cable Curl = 20
+# Lying Barbell Curl On Incline Bench = 21
+# concentration dumbbell curl = 22
+# Hammer Curl = 23
+# Behind The Neck Lat Pull down = 24
+# Seated Cable Row = 25
+# pullovers machine = 26
+# Horizontal bar = 27
+# H Machine Row = 28
+# T Machine Row = 29
+# Triceps Pushdown Rope = 4
+# Triceps Overhead Ext = 30
+# Lying Close-Grip Barbell Triceps Press To Chin = 31
+# Parallel Bar Dip = 32
+# Bench Dips (Triceps Dips) = 33
+# Lying dumbbell triceps = 34
+# Incline Dumbbell Bench = 35
+# Dumbbell Bench Press = 5
+# Barbell Decline Bench Press = 37
+# Low Cable Cross over = 36
+# Cable High Cross Over = 38
+# Push-up = 39
+# Crunch = 8
+# Reverse Crunch = 40
+# Russian Twist = 41
+# Cable One Arm Lateral-L = 42
+# Cable One Arm Lateral-R = 43
+# Standing Biceps Curl = 44
+# Shrug dumbbell = 45
+# Pectoral Fly = 46
+# band chest pulls = 47
+# ab machine bend = 48
+# barbell plate press = 49
+# side bent pulls (kettlebell/ dumbblell) = 50
+# chin-ups = 51
